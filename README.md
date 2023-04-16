@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Rofiqunnabi</h1>
 <h3 align="center">A passionate Web learner from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:1400/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rofiqunnab&label=Profile%20views&color=0e75b6&style=flat" alt="rofiqunnab" /> </p>
 
